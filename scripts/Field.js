@@ -9,6 +9,8 @@ class Field{
 
     }
 
+
+
     draw(ctx){
         ctx.beginPath();
         ctx.fillStyle = 'gray';
